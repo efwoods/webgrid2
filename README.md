@@ -29,3 +29,9 @@ This is an improvement on webgrid.
 7. login system
 8. (abstract) train a neural network using the aggregate logging data of multiple players (each player creates a record of how they played and this is used to train an AI to play the game better than any human.
 9. logging system (save each moveset by a player)
+
+## Resources
+- I want to use github pages to host this for free. (https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- Hopefully leverage the work I have already done in https://github.com/efwoods/tic-tac-toe to save time and effort. (tutorial is https://react.dev/learn/tutorial-tic-tac-toe#what-are-we-building)
+
+
